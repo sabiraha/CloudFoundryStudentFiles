@@ -1,6 +1,6 @@
 applications:
 - name: cf-cloud-info-solution
-  memory: 1G
+  memory: 768M
   # Add your name/initials to make the hostname unique
   host: cloud-info-solution-db123
   # domain: cfapps.io
