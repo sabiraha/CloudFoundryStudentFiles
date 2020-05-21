@@ -19,7 +19,7 @@
  		<java.version>1.7</java.version>
 
 		<!-- HtmlUnit not defined by spring.io -->
-		<htmlunit.version>2.15</htmlunit.version>
+		<htmlunit.version>2.37.0</htmlunit.version>
 	</properties>
 
 	<dependencies>
